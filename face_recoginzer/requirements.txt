@@ -1,0 +1,8 @@
+requirements
+
+
+cv2
+os
+numpy
+facerecongnition
+gtts
